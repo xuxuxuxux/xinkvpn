@@ -1,0 +1,19 @@
+syntax: glob
+gen/
+bin/
+.svn/
+classes/
+cache/
+dist/
+
+.git*
+*.log*
+log.txt
+*.tmp
+*.db
+*.swp
+*.orig
+.DS_Store
+*.apk
+*.bak
+~*
